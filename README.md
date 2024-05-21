@@ -39,7 +39,7 @@ This pipeline processes video frames to detect faces and identify those wearing 
 
 **Viola-Jones**
 
-[Demo](./OUR-ezgif.com-crop.gif)
+[Demo](https://github.com/elmeilgyahmed/Face-Mask-Detection/blob/main/OUR-ezgif.com-crop.gif)
 
 **Installation**
 
