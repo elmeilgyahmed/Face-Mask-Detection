@@ -39,7 +39,7 @@ This pipeline processes video frames to detect faces and identify those wearing 
 
 **Viola-Jones**
 
-[Watch the video](/OUR.mp4)
+[Demo](/OUR-ezgif.com-crop.gif)
 
 **Installation**
 
