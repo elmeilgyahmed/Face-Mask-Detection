@@ -9,13 +9,13 @@ This repository implements and compares two face detection methods, Viola-Jones 
     OpenCV Haarcascade Face Detection:
         OpenCV provides pre-trained Haarcascade classifiers for various object detection tasks, including face detection. These classifiers are efficient and easy to use, leveraging pre-trained models optimized for facial features. While convenient, OpenCV Haarcascade may require slightly more computational resources compared to Viola-Jones.
 
-**Comparison Summary:**
+# **Comparison Summary:**
 Feature	Viola-Jones Face Detection	OpenCV Haarcascade Face Detection
 Method	Object detection with Haar features	Pre-trained classifiers for face detection
 Advantages	Speed, efficiency	Ease of use, pre-trained models
 Disadvantages	Lower accuracy on complex backgrounds	May require more computational resources
 
-**Face Mask Detection Pipeline**
+# **Face Mask Detection Pipeline**
 
 This pipeline processes video frames to detect faces and identify those wearing masks:
     Video Capture:
@@ -31,7 +31,7 @@ This pipeline processes video frames to detect faces and identify those wearing 
     Visualization and Output:
         The pipeline visualizes the detected faces by drawing bounding boxes around them. Additionally, it displays the mask status (wearing/not wearing) using text labels or other visual cues. The output can be displayed on the screen in real-time or saved as annotated frames.
 
-**Video Demonstration**
+# **Video Demonstration**
 **OpenCV**
 
 
@@ -45,12 +45,11 @@ This pipeline processes video frames to detect faces and identify those wearing 
 
 **Install the required libraries using pip:**
 
-pip install opencv
+    pip install opencv
 
-Usage
+# Usage
 
-Sure! Let's enhance the explanation and incorporate the Viola-Jones script into your face detection pipeline to achieve high accuracy detection. Here’s a more detailed guide:
-Incorporating Viola-Jones Script into Your Face Detection Pipeline
+**Incorporating Viola-Jones Script into Your Face Detection Pipeline**
 
 To achieve high accuracy in face detection, you can incorporate the Viola-Jones algorithm, a highly efficient method for object detection. This guide will help you integrate the Viola-Jones face detection into your existing pipeline.
 Step-by-Step Guide
