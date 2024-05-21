@@ -38,17 +38,18 @@ This pipeline processes video frames to detect faces and identify those wearing 
 [Watch the video](/OPENCV.mp4)
 
 **Viola-Jones**
+
 [Watch the video](/OUR.mp4)
 
 **Installation**
 
 **Install the required libraries using pip:**
 
-pip install opencv-python [other_libraries]  # Replace with your specific library requirements
+pip install opencv
 
 Usage
 
-Run the provided Python script(s) to execute the face mask detection pipeline. The script name and usage instructions will depend on your implementation.
+Run the provided Python script to execute the face mask detection pipeline.
 
 Additional Considerations
 
