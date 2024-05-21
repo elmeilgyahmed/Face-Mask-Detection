@@ -34,10 +34,11 @@ This pipeline processes video frames to detect faces and identify those wearing 
 **Video Demonstration**
 **OpenCV**
 
-<iframe src="https://drive.google.com/file/d/1087C_OAUSSXAfuQEI5bMIXhcrBDLnOmi/view?usp=sharing" width="640" height="480"></iframe>
+
+[Watch the video](/OPENCV.mp4)
 
 **Viola-Jones**
-<iframe src="https://drive.google.com/file/d/1pJ7MD9VYMWYwXv6TI7LiiR5gtQL_Xt5t/view?usp=sharing" width="640" height="480"></iframe>
+[Watch the video](/OUR.mp4)
 
 **Installation**
 
